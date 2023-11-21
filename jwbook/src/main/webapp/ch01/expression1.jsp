@@ -17,6 +17,8 @@
 		}else{
 			result="홀수";
 		}
+		
+		
 	%>
 	<p>결과는 <%= result %>입니다</p>
 </body>

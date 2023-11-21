@@ -3,3 +3,15 @@
 11월 20, 2023 12:42:57.85 [10868:14980:1120/124257.083:ERROR:device_event_log_impl.cc(192)] [12:42:57.084] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
 11월 20, 2023 13:18:36.496 [10868:3384:1120/131836.496:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
 11월 20, 2023 13:31:21.382 [10868:3384:1120/133121.382:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+11월 21, 2023 13:45:32.658 NEW SESSION
+11월 21, 2023 13:45:32.658 [21004:7188:1121/134532.657:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_ABORTED)
+11월 21, 2023 14:11:46.889 [12204:10840:1121/141146.889:ERROR:device_event_log_impl.cc(192)] [14:11:46.888] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+11월 21, 2023 14:33:07.519 [7952:17976:1121/143307.518:ERROR:device_event_log_impl.cc(192)] [14:33:07.518] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+11월 21, 2023 14:57:08.381 [7952:17976:1121/145708.380:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 21, 2023 14:57:08.381 [7952:17976:1121/145708.380:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 21, 2023 15:07:57.853 [7952:17976:1121/150757.852:ERROR:device_event_log_impl.cc(192)] [15:07:57.852] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+11월 21, 2023 15:10:26.581 [7952:17976:1121/151026.581:ERROR:device_event_log_impl.cc(192)] [15:10:26.581] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+11월 21, 2023 15:21:23.921 [7952:17976:1121/152123.921:ERROR:device_event_log_impl.cc(192)] [15:21:23.921] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+11월 21, 2023 15:36:04.871 [7952:17976:1121/153604.871:ERROR:device_event_log_impl.cc(192)] [15:36:04.869] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+11월 21, 2023 15:36:04.877 [7952:17976:1121/153604.876:ERROR:device_event_log_impl.cc(192)] [15:36:04.875] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)

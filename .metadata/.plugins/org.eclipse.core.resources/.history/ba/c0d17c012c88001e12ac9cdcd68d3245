@@ -1,0 +1,11 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<jsp:useBean id="Login" class="bean.loginBean"/>
+<jsp:setProperty property="uid" name="login"/>
+<jsp:setProperty property="passwd" name="login"/>
+<%
+	boolean result = login.checkUser();
+
+
+
+%>

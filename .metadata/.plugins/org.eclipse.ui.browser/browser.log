@@ -15,3 +15,13 @@
 11월 21, 2023 15:21:23.921 [7952:17976:1121/152123.921:ERROR:device_event_log_impl.cc(192)] [15:21:23.921] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
 11월 21, 2023 15:36:04.871 [7952:17976:1121/153604.871:ERROR:device_event_log_impl.cc(192)] [15:36:04.869] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
 11월 21, 2023 15:36:04.877 [7952:17976:1121/153604.876:ERROR:device_event_log_impl.cc(192)] [15:36:04.875] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+
+11월 22, 2023 10:31:32.711 NEW SESSION
+11월 22, 2023 10:31:32.711 [16632:7228:1122/103132.710:ERROR:device_event_log_impl.cc(192)] [10:31:32.710] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+11월 22, 2023 10:53:55.340 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 22, 2023 11:28:08.107 [16288:11612:1122/112808.106:ERROR:device_event_log_impl.cc(192)] [11:28:08.106] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+11월 22, 2023 12:50:47.161 [7852:19896:1122/125047.160:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+11월 22, 2023 13:37:11.139 [7852:19896:1122/133711.139:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+11월 22, 2023 13:37:15.176 [7852:6892:1122/133715.176:ERROR:device_event_log_impl.cc(192)] [13:37:15.176] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+11월 22, 2023 13:49:09.896 [7852:6892:1122/134909.896:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 22, 2023 13:49:09.897 [7852:6892:1122/134909.896:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost

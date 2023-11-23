@@ -25,3 +25,12 @@
 11월 22, 2023 13:37:15.176 [7852:6892:1122/133715.176:ERROR:device_event_log_impl.cc(192)] [13:37:15.176] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
 11월 22, 2023 13:49:09.896 [7852:6892:1122/134909.896:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
 11월 22, 2023 13:49:09.897 [7852:6892:1122/134909.896:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+11월 23, 2023 15:12:47.376 NEW SESSION
+11월 23, 2023 15:12:47.376 [10416:17768:1123/151247.374:ERROR:device_event_log_impl.cc(192)] [15:12:47.374] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+11월 23, 2023 15:33:37.959 [10416:17768:1123/153337.959:ERROR:device_event_log_impl.cc(192)] [15:33:37.958] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+11월 23, 2023 15:57:04.69 [10416:17768:1123/155704.069:ERROR:device_event_log_impl.cc(192)] [15:57:04.069] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+11월 23, 2023 16:13:22.418 [10416:17768:1123/161322.418:ERROR:device_event_log_impl.cc(192)] [16:13:22.417] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+11월 23, 2023 17:02:09.408 [10416:17768:1123/170209.408:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+11월 23, 2023 17:09:40.986 [10416:17768:1123/170940.985:ERROR:device_event_log_impl.cc(192)] [17:09:40.984] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+11월 23, 2023 17:41:48.840 [10416:17768:1123/174148.840:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost

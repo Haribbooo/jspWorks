@@ -10,14 +10,14 @@
 </style>
 </head>
 <body>
-   <form action="/jwbook/login" method="post">
+   <form action="/jwbook/loginsession" method="post">
       <ul>
          <li>
             <label for="uname">계정 </label>
             <input type="text" id="uid" name="uid">
          </li>
          <li>
-            <label for="uname">암호 </label>
+            <label for="pw">암호 </label>
             <input type="text" id="passwd" name="passwd">
          </li>
          <li>

@@ -10,7 +10,7 @@
 <body>
 	<div id ="container">
 	<h2>주소록 메인화면</h2>
-	<hr>
+	<hr> 
 	<h3><a href="addressbook/addrForm.jsp">주소록 등록</a></h3>	
 	<h3><a href="addressbook/addrList.jsp">주소록 목록</a></h3>	
 	<h3><a href="addressbook/loginForm.jsp">로그인</a></h3>	

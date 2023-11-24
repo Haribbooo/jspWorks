@@ -3,6 +3,7 @@
 
 #container{width: 80%; margin: 0 auto;}
 h2 ,h3,p{text-align: center;}
+a{text-decoration: none; color: #222;}
 
 /*등록스타일*/
 #tbl_reg{width: 400px; margin:0 auto;}
@@ -16,6 +17,7 @@ h2 ,h3,p{text-align: center;}
 #tbl_reg select{padding: 5px;}
 
 /*목록 스타일*/
+#container .accent{color:blue; font-size:larger;}
 #tbl_list{width: 750px;margin:0 auto;}
 #tbl_list, th, td{
 	border: 1px solid #ccc;

@@ -41,12 +41,12 @@
       			String sessionId = (String)session.getAttribute("sessionId");
       			if(session.getAttribute("sessionId").equals(addrBook.getEmail())){
       			%>
-      			<a href ="addrUpdate.jsp?bnum=<%=addrBook.getBnum() %>>" >
+      			<a href ="addrUpdate.jsp?bnum=<%=addrBook.getBnum() %>" >
       			<button type="button">수정</button>
       			</a>
       			
       			<a onclick ="return confirm('해당 주소를 정말 삭제하시겠습니까?')"
-      			href ="addrDelete.jsp?bnum=<%=addrBook.getBnum() %>>" >
+      			href ="addrDelete.jsp?bnum=<%=addrBook.getBnum() %>" >
       			<button type="button">삭제</button>
       			</a>
       			<% } %>

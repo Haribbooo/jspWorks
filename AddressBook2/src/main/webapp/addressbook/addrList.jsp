@@ -31,7 +31,7 @@
 	        <a href="logout.jsp">
 	        
 	      	<span class="accent">
-	      	<b><%=session.getAttribute("sessionId") %> 님</b>
+	      	<b><%=session.getAttribute("sessionName") %> 님</b>
 	      	</span>
             [로그아웃]
             </a>

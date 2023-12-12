@@ -3,18 +3,18 @@ package member;
 import java.io.Serializable;
 import java.sql.Timestamp;
 
-
 public class Member implements Serializable{
 
-	private static final long serialVersionUID =11L;
+	private static final long serialVersionUID = 11L;
 	
 	private int mno;
-	private String id; 
-	private String passwd; 
-	private String name; 
-	private String email; 
-	private String gender; 
+	private String id;
+	private String passwd;
+	private String name;
+	private String email;
+	private String gender;
 	private Timestamp joinDate;
+	
 	public int getMno() {
 		return mno;
 	}
@@ -56,7 +56,8 @@ public class Member implements Serializable{
 	}
 	public void setJoinDate(Timestamp joinDate) {
 		this.joinDate = joinDate;
-	} 
+	}
 	
 	
+
 }
